@@ -1,0 +1,8 @@
+{
+  "name": "OVERALL FOR SALES — Daily Produce & Export Dispatch Consolidator",
+  "description": "Daily wholesale vegetable, fruit, and flower order consolidation against airport cargo packing slips powered by Gemini AI for M/s Priyaam Traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
